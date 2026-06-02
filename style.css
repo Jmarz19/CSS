@@ -35,3 +35,19 @@
 .light {
 	background-color: pink;
 }
+
+.avatar.proportioned {
+	width: 300px;
+}
+
+.avatar.distorted {
+	height: 400px;
+	width: 200px;
+}
+
+.container .text {
+	background-color: yellow;
+	color: #E00000;
+	font-size: 20px;
+	text-align: center;
+}
